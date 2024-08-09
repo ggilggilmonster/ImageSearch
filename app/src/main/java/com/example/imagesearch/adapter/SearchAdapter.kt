@@ -46,8 +46,6 @@ class SearchAdapter(val mItems: MutableList<SearchData>) :
         )
     }
 
-    C
-
     override fun getItemId(position: Int): Long {
         return position.toLong()
     }
