@@ -13,8 +13,8 @@ import com.example.imagesearch.adapter.MyStorageAdapter
 import com.example.imagesearch.databinding.FragmentMyStorageBinding
 import com.example.imagesearch.model.SearchItemModel
 
-private const val ARG_PARAM1 = "param1"
-private const val ARG_PARAM2 = "param2"
+//private const val ARG_PARAM1 = "param1"
+//private const val ARG_PARAM2 = "param2"
 
 class MyStorageFragment : Fragment() {
 
